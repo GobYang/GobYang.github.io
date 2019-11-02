@@ -193,11 +193,11 @@
       <category term="JAVA" scheme="https://renqiangme.github.io/categories/JAVA/"/>
     
     
-      <category term="Systemd" scheme="https://renqiangme.github.io/tags/Systemd/"/>
-    
       <category term="JAVA" scheme="https://renqiangme.github.io/tags/JAVA/"/>
     
       <category term="SpringBoot" scheme="https://renqiangme.github.io/tags/SpringBoot/"/>
+    
+      <category term="Systemd" scheme="https://renqiangme.github.io/tags/Systemd/"/>
     
   </entry>
   
@@ -325,9 +325,9 @@
     
       <category term="PHP" scheme="https://renqiangme.github.io/tags/PHP/"/>
     
-      <category term="Swoole" scheme="https://renqiangme.github.io/tags/Swoole/"/>
-    
       <category term="Systemd" scheme="https://renqiangme.github.io/tags/Systemd/"/>
+    
+      <category term="Swoole" scheme="https://renqiangme.github.io/tags/Swoole/"/>
     
       <category term="Supervisor" scheme="https://renqiangme.github.io/tags/Supervisor/"/>
     
